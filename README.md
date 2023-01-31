@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React,TypeScript, SASS, Bootstrap, ES6+**
 
-- 👨‍💻 All of my projects are available at [https://vayninurdan.github.io/](https://vayninurdan.github.io/)
+- 👨‍💻 Personal Page [https://vayninurdan.github.io/](https://vayninurdan.github.io/)
 
 - 📫 How to reach me **nurdannvaynii0@gmail.com**
 
