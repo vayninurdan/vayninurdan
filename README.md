@@ -1,3 +1,4 @@
+[![GitCheck Score](https://gitcheck.me/api/badge/vayninurdan)](https://gitcheck.me/dashboard/vayninurdan)
 <h1 align="center">Hi 👋, I'm Nurdan Vayni</h1>
 <h3 align="center">I'm a Frontend Developer</h3>
 
